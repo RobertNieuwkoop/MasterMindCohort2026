@@ -16,6 +16,13 @@ public class MasterMind {
 		String wittePin = "Wit";
 		String legePin = "Leeg";
 		
+		String rij1vakje1;
+		String rij1vakje2;
+		String rij1vakje3;
+		String rij1vakje4;
+		
+		String rij2vakje1;
+		
 	}
 
 }

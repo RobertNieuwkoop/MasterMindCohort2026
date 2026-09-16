@@ -4,7 +4,18 @@ public class MasterMind {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hoi MasterMind 2026");
+		
+		String rodePin = "Rood";
+		String blauwePin = "Blauw";
+		String gelePin = "Geel";
+		String groenePin = "Groen";
+		String oranjePin = "Oranje";
+		String paarsePin = "Paars";
+		
+		String zwartePin = "Zwart";
+		String wittePin = "Wit";
+		String legePin = "Leeg";
+		
 	}
 
 }

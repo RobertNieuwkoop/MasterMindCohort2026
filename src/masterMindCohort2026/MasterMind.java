@@ -22,6 +22,9 @@ public class MasterMind {
 		String rij1vakje4;
 		
 		String rij2vakje1;
+		String rij2vakje2;
+		String rij2vakje3;
+		String rij2vakje4;
 		
 	}
 
